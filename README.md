@@ -90,3 +90,25 @@ By integrating climate monitoring with soil and plant health data, the Global Cl
 
 This holistic monitoring strategy reinforces the vital link between environmental health and economic well-being, ensuring long-term prosperity for agricultural regions.
 
+## Project Status and Demonstrations
+
+We have developed preliminary AI-based data processing pipelines and initial quantum algorithm simulations to analyze complex climate phenomena. This prototype demonstrates the feasibility of our hybrid classical-quantum approach.
+
+Explore our current implementation and simulations in this Google Colab notebook:  
+[Global Climate Monitor Prototype](https://colab.research.google.com/drive/1k48b1PAEX9DAxP39NweuN51iJGqvOVRE#scrollTo=AwdN8nsfaiPO)
+
+### Current Progress
+- Data acquisition and preprocessing using AI models for climate anomaly detection.  
+- Prototype quantum simulations to model compound climate events.  
+- Integration framework for multi-source environmental data.
+
+### Next Steps
+- Scale quantum algorithms on IBM Quantum processors for real-time analysis.  
+- Expand dataset integration to include oceanic and terrestrial variables at higher resolutions.  
+- Deploy hybrid AI-quantum workflows on IBM cloud infrastructure.
+
+Access to IBM’s quantum computing resources and AI platforms is essential to accelerate development and enable breakthroughs in global climate risk monitoring.
+
+We look forward to partnering with IBM to bring this cutting-edge climate monitoring system to fruition, benefiting agriculture, environment, and society worldwide.
+
+
